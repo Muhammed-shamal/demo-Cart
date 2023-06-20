@@ -1,0 +1,65 @@
+#root
+  > div
+  > header
+  > div
+  > div
+  > header
+  > nav
+  > div.collapse.navbar-collapse
+  > ul
+  > li:nth-child(n)
+  > a {
+  margin-right: 5px;
+}
+
+.navbar-brand {
+  opacity: 0.8;
+  font-family: c cukil;
+  cursor: pointer;
+  text-shadow: "3px 3px 4px rgba(100,100,100,0.5)";
+}
+
+.rectangleSign {
+  padding: 5px 10px;
+  border-radius: 18px;
+  background: #ffffff;
+  background-blend-mode: normal;
+}
+
+input[type="search"] {
+  border: 1px solid gray;
+  margin: 0;
+  outline: none;
+  padding: 7px 8px;
+  font-size: 14px;
+  border-radius: 4px;
+}
+
+input[type="search"]::placeholder {
+  color: #bbb;
+}
+
+button[type="submit"] {
+  text-indent: -999px;
+  overflow: hidden;
+  width: 40px;
+  padding: 0;
+  margin: 0;
+  border: 1px solid transparent;
+  border-radius: inherit;
+  background: transparent
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E")
+    no-repeat center;
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+button[type="submit"]:hover {
+  opacity: 1;
+}
+
+input[type="search"]:focus {
+  box-shadow: 0 0 3px 0 #1183d6;
+  border-color: #1183d6;
+  outline: none;
+}

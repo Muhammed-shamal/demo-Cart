@@ -1,0 +1,13 @@
+.loginBody {
+  border-radius: 10px;
+  background-color: #eee;
+  min-height: 550px;
+  box-shadow: "-3px -2px 4px rgba(100,100,100,0.5),1px 3px 4px 2px rgba(100,100,100,0.5)";
+  opacity: 0.8;
+  margin-top: 2em;
+  padding: 4em;
+}
+
+.border-bottom {
+  border-bottom: 1px solid rgb(255, 200, 0);
+}
