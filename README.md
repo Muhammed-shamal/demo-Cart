@@ -2,9 +2,9 @@
 
 "Welcome to our cutting-edge e-commerce platform, where shopping meets innovation. Our website is the result of a meticulous fusion of technology and design, creating a seamless and enjoyable shopping experience for you.
 
-Our website is powered by React, the industry's leading JavaScript library for building user interfaces. The use of React ensures lightning-fast loading times and a user-friendly interface, allowing you to navigate through a wide range of products effortlessly.
+My website is powered by React, the industry's leading JavaScript library for building user interfaces. The use of React ensures lightning-fast loading times and a user-friendly interface, allowing you to navigate through a wide range of products effortlessly.
 
-We've harnessed the power of Firebase, a robust and scalable cloud platform, to provide you with a secure and reliable shopping environment. Your data is protected, and our website runs with minimal downtime, guaranteeing an exceptional shopping experience every time you visit.
+I've harnessed the power of Firebase, a robust and scalable cloud platform, to provide you with a secure and reliable shopping environment. Your data is protected, and our website runs with minimal downtime, guaranteeing an exceptional shopping experience every time you visit.
 
 To bring you the latest product information, we've integrated a REST API. This API connects our website to a vast database, ensuring that you have access to the most up-to-date product details, pricing, and availability. Say goodbye to outdated information and hello to real-time shopping data.
 
@@ -14,10 +14,21 @@ Join us on the journey of modern online shopping, and experience the convenience
 
 Feel free to tailor and use this description on your e-commerce website or in promotional materials as needed.
 
-
-
 ![React App and 28 more pages - Personal - Microsoft​ Edge 6_27_2023 12_48_49 PM](https://github.com/Muhammed-shamal/demo-cart/assets/108850156/b17a467a-8acd-4f0e-9ace-6853d9fb9617)
 
+
+### Technologies Used:
+
+* React.js
+* Firebase (Authentication, Firestore)
+* E-commerce based API
+* Bootstrap/CSS
+
+Deployment: Host the project on a cloud platform  firebase.
+
+
+
+ ** Live Demo:**[Netflix Clone]([https://unrivaled-beignet-af9394.netlify.app](https://e-commerce-demo-cart.firebaseapp.com/))
 
 # Getting Started with Create React App
 
