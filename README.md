@@ -23,6 +23,8 @@ Feel free to tailor and use this description on your e-commerce website or in pr
 * Firebase (Authentication, Firestore)
 * E-commerce based API
 * Bootstrap/CSS
+* Context API (for some of small statements operation)
+* react router dom for manage the Router
 
 Deployment: Host the project on a cloud platform  firebase.
 
