@@ -30,7 +30,7 @@ Deployment: Host the project on a cloud platform  firebase.
 
 
 
- ** Live Demo:**[Netflix Clone]([https://unrivaled-beignet-af9394.netlify.app](https://e-commerce-demo-cart.firebaseapp.com/))
+ ** Live Demo:**[Netflix Clone](https://e-commerce-demo-cart.firebaseapp.com/)
 
 # Getting Started with Create React App
 
